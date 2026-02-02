@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Junior transfer from NOVA, VA. I am currently working towards my Bachlor's in Electrical Engineering. I am currently working towards getting an internship in the summer. I also have a job as a pharmacy technician.
+I am a Junior transfer at Virginia Tech from NOVA, VA. I am currently working towards my Bachlor's in Electrical Engineering. I am currently working towards getting an internship in the summer. I also have a job as a pharmacy technician.
 
